@@ -1,0 +1,66 @@
+/*SKILLS*/
+
+#skills{
+	min-width: 960px;
+  	max-width: 1600px;
+ 	margin: 0 auto;
+ 	padding: 0;
+	height: 350px;
+	background-color: #F5F5F5;
+	position: relative;
+	text-align: center;
+}
+
+#faceimg{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin-top: 75px;
+	margin-right: 8%;	
+	display: inline-block;
+
+	
+}
+
+#scalesbox{
+	display: inline-block; 
+	margin-left: 90px;
+	vertical-align: top;
+	text-align: left;
+	margin-top: 115px;
+}
+
+/*scalebox*/
+
+#outskillbar{
+	height: 40px;
+	width: 270px;
+	vertical-align: middle;
+}
+
+.skillbar{
+	height: 10px;
+	width: 270px;
+	background-color: #424242;
+	margin-left: 22px;
+}
+
+.inskillbars{
+	display: inline-block;
+	height: 10px;
+	background-color: #1C1C1C;
+	vertical-align: top;
+}
+#inskillbar1{
+	width: 120px;
+}
+
+#inskillbar2{
+	width: 150px;
+}
+
+#inskillbar3{
+	width: 100px;
+}
+/*end scalebox*/
+/*end skills*/

@@ -1,0 +1,30 @@
+Адрес ПУА: https://cp.beget.com
+Имя пользователя: aes3plex
+Пароль: y1XdHL5V
+Сервер: furs3 
+
+db
+
+host: localhost
+database: aes3plex_db
+user: aes3plex_db
+password: fhneh1997
+
+http://aes3plex.beget.tech/manager
+aes3plex.beget.tech
+
+https://karpunin.planfix.ru/
+viktor
+FNSs465KVk6CBT
+
+#mail.yandex.ru
+viktor@karpunin.pro
+FNSs465KVk6CBT
+
+https://docs.modx.com/extras/revo/migx
+
+
+матрасы
+https://vegasmatras.spb.ru/manager/
+viktor
+55PnLvDP8ga

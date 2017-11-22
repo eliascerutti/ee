@@ -1,0 +1,77 @@
+/*HEADER*/
+
+#header {
+	min-width: 960px;
+  	max-width: 1600px;
+ 	margin: 0 auto;
+ 	padding: 0;
+	min-height: 765px;
+	position: relative;
+	border: 1px solid black;
+	z-index: 0;
+	 background-image: url(pw_maze_black.png);
+  	background-repeat: repeat;
+}
+
+#headlayout {
+	
+	background-color: black;
+	opacity: 0.75;
+	z-index: 1;
+	height: 650px;
+	position: absolute;
+}
+
+
+#emblem{
+	position: relative;
+	height: 220px;
+	width: 220px;
+	margin: 0 auto;
+	margin-top: 130px;
+	background-image: url(logo.png); 
+	z-index: 2; 
+}
+
+#signature{
+	position: relative;
+	width: 250px;
+	height: 85px;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 32pt;
+	font-family: "Monotype Corsiva";
+	color: #FFFFFF;
+	z-index: 2; 
+}
+
+#headbutton{
+	position: relative;
+	width: 180px;
+	height: 25px;
+	margin: 0 auto;
+	margin-top: 27px;
+	z-index: 2;
+	border-radius: 6px;
+	background-color: #F4C430;
+	color:#8B4513;
+	opacity: 0.5;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-style: "Helvetica", serif;
+	font-size: 12pt;
+
+}
+
+/*добавить плавное изменение цвета*/
+#headbutton:hover{
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+#headbutton:active{
+	cursor: pointer;
+	opacity: 0.8;
+}
